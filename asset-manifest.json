@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/worldcup22/static/css/main.073c9b0a.css",
+    "main.js": "/worldcup22/static/js/main.6c9965c6.js",
+    "static/js/787.c9a9fbf4.chunk.js": "/worldcup22/static/js/787.c9a9fbf4.chunk.js",
+    "static/media/logo.svg": "/worldcup22/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/worldcup22/index.html",
+    "main.073c9b0a.css.map": "/worldcup22/static/css/main.073c9b0a.css.map",
+    "main.6c9965c6.js.map": "/worldcup22/static/js/main.6c9965c6.js.map",
+    "787.c9a9fbf4.chunk.js.map": "/worldcup22/static/js/787.c9a9fbf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6c9965c6.js"
+  ]
+}
