@@ -24,9 +24,19 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
 }));
 
 const ElementRow = ({ element }) => {
+
+  let included;
+
+  if (element.included) {
+    included = <StyledTableCell align="right">{element.team}</StyledTableCell>
+  } else {
+    included = <StyledTableCell sx={{ color: "#ff0000"}} align="right">*{element.team}*</StyledTableCell>
+  }
+
   return (
     <StyledTableRow key={element.team}>
-      <StyledTableCell align="right">{element.team}</StyledTableCell>
+      {included}
+      {/* <StyledTableCell align="right">{element.team}</StyledTableCell> */}
       <StyledTableCell align="right">{element.owner}</StyledTableCell>
       <StyledTableCell align="right">{element.played}</StyledTableCell>
       <StyledTableCell align="right">{element.win}</StyledTableCell>
