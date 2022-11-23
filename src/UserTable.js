@@ -37,8 +37,8 @@ const userTable = () => {
             <StyledTableCell align="right">Won</StyledTableCell>
             <StyledTableCell align="right">Drawn</StyledTableCell>
             <StyledTableCell align="right">Lost</StyledTableCell>
-            <StyledTableCell align="right">Red</StyledTableCell>
             <StyledTableCell align="right">Yellow</StyledTableCell>
+            <StyledTableCell align="right">Red</StyledTableCell>
             <StyledTableCell align="right">For</StyledTableCell>
             <StyledTableCell align="right">Against</StyledTableCell>
             <StyledTableCell align="right">Total</StyledTableCell>
