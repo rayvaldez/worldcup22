@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/worldcup22/static/css/main.576c9d63.css",
-    "main.js": "/worldcup22/static/js/main.aa0728a4.js",
+    "main.js": "/worldcup22/static/js/main.3bb750ac.js",
     "static/js/787.c9a9fbf4.chunk.js": "/worldcup22/static/js/787.c9a9fbf4.chunk.js",
     "static/media/BillionDreams_PERSONAL.ttf": "/worldcup22/static/media/BillionDreams_PERSONAL.c3670514876327a19952.ttf",
     "static/media/QWC22.png": "/worldcup22/static/media/QWC22.e77ba9df74f24315432b.png",
     "index.html": "/worldcup22/index.html",
     "main.576c9d63.css.map": "/worldcup22/static/css/main.576c9d63.css.map",
-    "main.aa0728a4.js.map": "/worldcup22/static/js/main.aa0728a4.js.map",
+    "main.3bb750ac.js.map": "/worldcup22/static/js/main.3bb750ac.js.map",
     "787.c9a9fbf4.chunk.js.map": "/worldcup22/static/js/787.c9a9fbf4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.576c9d63.css",
-    "static/js/main.aa0728a4.js"
+    "static/js/main.3bb750ac.js"
   ]
 }
