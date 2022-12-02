@@ -27,8 +27,10 @@ const ElementRow = ({ element }) => {
 
   let included;
 
-  if (element.included) {
+  if (element.included === "true") {
     included = <StyledTableCell align="right">{element.team}</StyledTableCell>
+  } else if (element.included === 'eliminated') {
+    included = <StyledTableCell sx={{ color: "#ff0000", textDecoration: "line-through"}} align="right">{element.team}</StyledTableCell>
   } else {
     included = <StyledTableCell sx={{ color: "#ff0000"}} align="right">*{element.team}*</StyledTableCell>
   }
