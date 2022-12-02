@@ -19,9 +19,6 @@ const Rules = () => {
         <Typography variant="body2">
           Yellow Card -1 Point, Red Card -2 Points
         </Typography>
-        <Typography variant="caption" sx={{ color: '#8E1600'}}>
-          *Reminder* Teams in red are 1st picks and will not count.
-        </Typography>
       </Box>
     </Box>
   )
