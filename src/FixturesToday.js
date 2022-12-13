@@ -14,7 +14,7 @@ const FixturesToday = () => {
     <Box sx={{ m: "1em 0 1em 0", border: "2px solid #8A1538", borderRadius: "5px"}}>
       <Box sx={{ backgroundColor: "#8A1538"}}>
         <Typography variant="h6" component="span" sx={{ color: "#faf9f6", pl: "5px"}}>
-          Today's Fixtures
+          Fixtures
         </Typography>
       </Box>
       <Box sx={{ pt: "8px" }}>
