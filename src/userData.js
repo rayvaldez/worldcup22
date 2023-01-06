@@ -45,15 +45,15 @@ const userData = [
     "team": "Croatia",
     "included": "true",
     "owner": "Sean",
-    "played": 5,
-    "win": 3,
+    "played": 7,
+    "win": 4,
     "draw": 2,
-    "loss": 0,
+    "loss": 1,
     "red_cards": 0,
-    "yellow_cards": 6,
-    "goals_for": 4,
-    "goals_against": 1,
-    "total_points": 40
+    "yellow_cards": 8,
+    "goals_for": 6,
+    "goals_against": 5,
+    "total_points": 44
   },
   {
     "team": "Ecuador",
@@ -141,17 +141,17 @@ const userData = [
   },
   {
     "team": "Morocco",
-    "included": "true",
+    "included": "eliminated",
     "owner": "Emma",
-    "played": 5,
+    "played": 7,
     "win": 4,
     "draw": 1,
-    "loss": 0,
+    "loss": 2,
     "red_cards": 1,
-    "yellow_cards": 6,
-    "goals_for": 5,
-    "goals_against": 1,
-    "total_points": 43
+    "yellow_cards": 9,
+    "goals_for": 6,
+    "goals_against": 5,
+    "total_points": 34
   },
   {
     "team": "Poland",
